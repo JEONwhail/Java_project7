@@ -10,11 +10,11 @@ public class Quiz3 {
 	public static void main(String[] args) {
 
 		int[] arr = new int[] { 10, 15, 20, 25, 30 };
-		int sum = 0; //합을 저장할 변수
+		int sum = 0; 
 		
 		for(int i=0; i<5; i++){ 
 			sum = sum + arr[i];
-		} // arr[0] + arr[1] + arr[2] + arr[3] + arr[4]
+		}
 		
 		System.out.println(sum);
 	}

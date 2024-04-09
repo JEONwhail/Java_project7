@@ -4,7 +4,9 @@ import java.util.ArrayList;
 
 /*
  * 문자형(Character) 리스트를 생성하세요.
+ * 
  * 문자 3개를 추가하세요 ('A','B','C')
+ * 
  * 리스트의 모든 요소를 출력하세요.
  * */
 public class Quiz1 {

@@ -10,7 +10,7 @@ public class Ex3 {
 	public static void main(String[] args) {
 		ArrayList<Book> list = new ArrayList<Book>(); //리스트 생성
 		
-		list.add(new Book("태백산맥", "조정래")); //add메소드로 리스트에 요소 추가
+		list.add(new Book("태백산맥", "조정래")); 
 		list.add(new Book("데미안", "헤르만 헤세"));
 		list.add(new Book("어떻게 살 것인가", "유시민"));
 		

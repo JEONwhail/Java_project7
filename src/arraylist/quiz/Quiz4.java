@@ -4,9 +4,13 @@ import java.util.ArrayList;
 
 /*
  * 학생(Student)을 정의하는 클래스를 만드세요.
+ * 
  * 속성: 학번, 이름
+ * 
  * Student형 리스트를 생성하고, 학생 3명을 추가하세요.
+ * 
  * 반복문을 사용하여 리스트의 요소를 출력하세요.
+ * 
  * */
 public class Quiz4 {
 
@@ -33,8 +37,8 @@ public class Quiz4 {
 }
 
 class Student {
-	int studentID; //학번
-	String studentName; //이름
+	int studentID; 
+	String studentName; 
 
 	public Student(int studentID, String studentName) {
 		super();
